@@ -1,7 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+/*
+https://srd-pomodoro-timer.netlify.app/
+https://codepen.io/hilotacker/pen/ONZWoX
+ */
 function App() {
   return (
     <div className="App">
